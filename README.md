@@ -5,4 +5,4 @@
 <code>python3 dictionary.py</code>
 <p>For a random word</p>
 <code>python3 dictionary.py word</code>
-<p>Replace 'word' with a word you want to find defintion</p>
+<p>Replace 'word' with the query</p>
